@@ -1,4 +1,4 @@
 # MyFirstRepo
 This is my first Git Repository.
 <br>
-Author - Rohit Rathod 
+Author - Rohit Rathod(TMS)
